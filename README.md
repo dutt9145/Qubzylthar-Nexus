@@ -89,6 +89,5 @@ Trust is paramount. The Nexus ensures this through:
 
 ## **Links and Contact Information**
 
-* [Qub'zylthar Nexus X account](URL_TO_X)
-* [Qub'zylthar Nexus Discord Channel (Qubic)](URL_TO_DISCORD)
-* [Qub'zylthar Nexus Telegram Channel](URL_TO_TELEGRAM)
+* [Qub'zylthar Nexus X account](https://x.com/QZNQUBIC)
+* [Qub'zylthar Nexus Discord Channel (Qubic)](https://discord.com/channels/768887649540243497/1437490203924103238)
