@@ -170,5 +170,4 @@ All on-chain activity is transparent and verifiable in real time.
 ## Links & Contact
 
 - **X (Twitter):** Qub’zylthar Nexus  
-- **Discord:** Qub’zylthar Nexus (Qubic)  
-- **Telegram:** Qub’zylthar Nexus
+- **Discord:** Qub’zylthar Nexus (Qubic)
