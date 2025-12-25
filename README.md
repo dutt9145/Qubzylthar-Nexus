@@ -67,4 +67,4 @@ This is **infrastructure usage**, not speculation.
 ## **Links and Contact Information**
 
 * [Qub'zylthar Nexus X account](https://x.com/QZNQUBIC)
-* [Qub'zylthar Nexus Discord Channel (Qubic)]([https://discord.com/channels/768887649540243497/1449728063364534366])
+* [Qub'zylthar Nexus Discord Channel (Qubic)](https://discord.com/channels/768887649540243497/1449728063364534366)
